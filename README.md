@@ -16,6 +16,7 @@ Some cool pictures:
 - Generate 4 recipes at a time with ingredients from your pantry
 - store prices and expiration dates of each item
 - Bookmark interesting recipes and import your own
+- OCR Functionality using Tesseract for extracting info from receipts
 
 ## Coming soon ...
 - Directly import YouTube/Instagram cooking links
