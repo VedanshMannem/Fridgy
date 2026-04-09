@@ -24,7 +24,7 @@ export default function Navbar() {
   ) : (
     <div>
       <button onClick={loginWithGoogle} className="boton-elegante">Sign in with Google</button>
-      <h1 className="userName">Frigdy</h1>
+      <h1 className="userName">Fridgy</h1>
     </div>
   );
 }
